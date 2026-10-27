@@ -126,7 +126,7 @@ def calc_text_bits():
 
 # Display instructions if requested
 want_instructions = input("\nPress <enter> to read the instructions " 
-                          "or any key to continue")
+                          "or any key to continue ")
 
 
 if want_instructions == "":

@@ -19,10 +19,10 @@ Instructions go here.
 
 # Display instructions if requested
 want_instructions = input("Press <enter> to read the instructions " 
-                          "or any key to continue")
+                          "or any key to continue ")
 
 
 if want_instructions == "":
     instructions()
 
-print("program continues")
+print("\nProgram continues")
